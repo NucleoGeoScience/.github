@@ -19,65 +19,27 @@ Drª Luciana Pagliosa Carvalho Guedes - UNIOESTE - Campus Cascavel/PR
 
 Dr. Jonathan Richetti - CSIRO - Austrália
 
-Dr. Carlos Antonio da Silva Junior - UNEMAT - Campus Alta Floresta/MT
-
-Drª Ranieli dos Anjos de Souza - IFRO - Campus Colorado do Oeste/RO
-
-Dr. Valdir Moura - IFRO - Campus Colorado do Oeste/RO
-
 Dr. Thiago Berticelli Ló - IFPR - Campus de Cascavel
 
 Dr. Darlon Vasata - IFPR - Campus de Cascavel
 
 Dr. Willyan Ronaldo Becker - Allianz Seguros SA - São Paulo/SP
 
-Dr. Helton Aparecido Rosa - FAG - Cascavel/PR
-
-Me. Laíza Cavalcante de Albuquerque Silva - Newe Seguros - São Paulo/SP
-
-Me. Gustavo Fernandes - Engenheiro Civil - Autônomo
-
  
 
 ### Colaboradores
 
-Alex Paludo - Doutorando PGEAGRI - Projeto DAI CNPq – UNIOESTE
-
 Elenilton Jairo Dezengrini - Doutorando PGEAGRI - UNIOESTE
-
-Sergio Manuel Chamorro Díaz - Mestrando PGEAGRI - UNIOESTE
-
-Jucé Marcos Dessanti - Mestrando PPGAdm – UNIOESTE
 
 Osvaldo César Brotto - Doutorando PGEAGRI - UNIOESTE & Consultor SEBRAE
 
 Fernando Celio Monte Freire Filho - Doutorando PGEAGRI - Proj. MAI/DAI CNPq - UNIOESTE
 
-Idelvan Bonadiman Blanco - Doutorando PGEAGRI - UNIOESTE
-
 Daniela Maria Grande Vicente - Doutoranda PGEAGRI - UNIOESTE
-
-Joyce Bueno Mafra - Doutoranda PGEAGRI - UNIOESTE
-
-Jefferson da Silva Medeiros - Mestrando PPGAdm – UNIOESTE
-
-Izabely Silva Machado - Mestrando PGEAGRI - UNIOESTE
-
-Marcelo Henrique de Oliveira - Eng. Agrícola - UNIOESTE
-
-João Felipe Cesar Silveira - Eng. Agrícola - UNIOESTE
-
-Jackson Renato Faquineti Rampazzo - Graduando Ciência Computação - IC- UNIOESTE
-
-Alison Henrique Pfefer - Graduando Eng. Agrícola - IC - UNIOESTE
-
-Luís Gustavo Tasoniero - Graduando Administração - IC - UNIOESTE
-
-Fábio Novack da Silca - Graduando Ciência Computação - IC- UNIOESTE
 
 Felipe Guimarães Marques - Graduando Eng. Agrícola - IC - UNIOESTE
 
-Larissa Nicolau de Souza - Graduanda Eng. Agrícola - IC voluntária - UNIOESTE
+
 
 ## Contatos
 
